@@ -13,6 +13,8 @@ body {
 }
 
 #convertBtn {
+    border: none;
+    outline: none;
     border-style: none;
     color: white;
     background: #f2564dff;
