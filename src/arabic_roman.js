@@ -59,12 +59,6 @@ function arabicToRoman( number, _result = "" ) {
     return _result;
 }
 
-
-
-
-
-let log = console.log;
-
 function decimalToRoman( num ) {
     if ( num >= 1000 ) {
         return "M".repeat( parseInt( num / 1000 ) ) + computeRoman( num % 1000 ).toUpperCase();
