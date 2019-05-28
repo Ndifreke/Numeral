@@ -11,7 +11,7 @@ The application takes a single argument and converts between the two numerals de
 ### Usage
 #### See github pages
 
- [https://ndifreke.github.io/Numeral](https://ndifreke.github.io/Numeral)
+ [https://ndifreke.github.io/numeral](https://ndifreke.github.io/Numeral)
 
 ### Contributing
 Pull requests are welcome.
